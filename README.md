@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindos! 👋</h1>
 
-- 📫 **favpetrocelli@gmail.com**
+- 📫 **felipepetrocelli@hotmail.com**
 
 <h3 align="left">Linkdin:</h3>
 <p align="left">
